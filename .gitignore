@@ -1,3 +1,4 @@
 nvim/lazy
 nvim/shada
-nvim/lazy-lock.json
+nvim/*.json
+nvim/telescope_history
