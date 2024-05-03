@@ -2,6 +2,6 @@ return {
     {'https://github.com/nvim-lua/plenary.nvim'},
     {'https://github.com/nvim-lua/popup.nvim'},
     {'https://github.com/nvim-telescope/telescope-media-files.nvim'},
-    {'https://github.com/nvim-tree/nvim-web-devicons.git'},
+    {'https://github.com/nvim-tree/nvim-web-devicons'},
 	{'https://github.com/nvim-telescope/telescope.nvim'},
 }
