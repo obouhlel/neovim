@@ -1,5 +1,5 @@
 return {
-  { "shaunsingh/nord.nvim" },
+  { "https://github.com/shaunsingh/nord.nvim.git" },
 
   {
     "LazyVim/LazyVim",
