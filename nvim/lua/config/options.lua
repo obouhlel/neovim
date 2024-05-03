@@ -58,7 +58,7 @@ vim.opt.guicursor = 'n-sm:block,i-c-ci:ver25,v-ve-o-r-cr:hor25'
 -- C O L O R C O L U M N ------------------------------------------------------
 
 -- enable colorcolumn
-vim.opt.colorcolumn = '80'
+-- vim.opt.colorcolumn = '80'
 
 
 -- C O M P L E T I O N --------------------------------------------------------
