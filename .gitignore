@@ -1,4 +1,4 @@
-./lazy/*
-./shada
+./nvim/lazy
+./nvim/shada
 *.shada
-lazy-lock.json
+./nvim/lazy-lock.json
