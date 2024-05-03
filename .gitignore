@@ -1,3 +1,4 @@
 ./lazy/*
 ./shada
 *.shada
+lazy-lock.json

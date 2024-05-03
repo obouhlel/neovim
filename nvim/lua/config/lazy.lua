@@ -1,4 +1,3 @@
-
 -- L A Z Y  C O N F I G -------------------------------------------------------
 
 
@@ -121,10 +120,10 @@ local config = {
 
 	--checker = { enabled = true },
 	performance = {
-		cache  = {
+		cache = {
 			enable = true
 		},
-		rtp = {
+		rtp   = {
 			-- reset the package path to improve startup time
 			reset_packpath = true,
 			-- add any custom paths here that you want to includes in the rtp
